@@ -1,5 +1,7 @@
 # telemetry-service
 
+Part of the Orbital Horizons Labs public engineering repositories.
+
 Collects simulator telemetry frames and forwards normalized events to mission
 control dashboards.
 
@@ -10,7 +12,8 @@ The public repository must not contain production credentials.
 
 Related public repositories:
 
-- `crew-management`
-- `launch-checklist`
-- `orbital-navigation`
-- `mission-docs`
+- [Orbital Horizons Labs](https://github.com/eliteprogrammer007-cmd/orbital-horizons-labs)
+- [crew-management](https://github.com/eliteprogrammer007-cmd/crew-management)
+- [launch-checklist](https://github.com/eliteprogrammer007-cmd/launch-checklist)
+- [orbital-navigation](https://github.com/eliteprogrammer007-cmd/orbital-navigation)
+- [mission-docs](https://github.com/eliteprogrammer007-cmd/mission-docs)
